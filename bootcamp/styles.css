@@ -1,0 +1,11 @@
+*{
+    background-color: lightsalmon;
+    color: white;
+    text-decoration: line-through;
+
+    font-family: 'Odibee Sans', cursive;
+    font-size: 60px;
+}
+.best:hover{
+    font-size: 10px;
+}
